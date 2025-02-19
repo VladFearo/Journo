@@ -1,4 +1,3 @@
-```markdown
 # Journo
 
 Journo is a modern journaling app that lets you capture your thoughts with a rich text editor featuring image pasting and basic formatting.
