@@ -33,7 +33,7 @@ Journo is a modern journaling app that lets you capture your thoughts with a ric
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/your-username/Journo.git](https://github.com/VladFearo/Journo)
+   git clone https://github.com/your-username/Journo.git
    cd Journo
    ```
 
